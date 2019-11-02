@@ -163,7 +163,7 @@ div.backgroundAboutMe{
     margin: 0;
     padding: 0;
     align-content: left;
-    text-align: left;
+    text-align: center;
 }
 form.contactForm{
     text-align: left;
@@ -210,6 +210,3 @@ input.submitButton:hover{
 div.foot{
     margin: 60px 2px 8px 0;
 }
-
-
-
