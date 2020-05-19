@@ -120,7 +120,8 @@ a.homeLogo:hover{
 }
 
 p{
-    padding: 0 20%;
+    padding: 0 14%;
+    text-align: left !important;
 }
 
 img.skill{
@@ -226,4 +227,21 @@ ul {
 .text-muted {
     color: black !important;
     font-size: large;
+}
+
+div.container {
+    padding: 1%;
+}
+
+div.col-smIcon {
+    width: 10% !important;
+    padding: 0 2% 0 2%;
+}
+
+div.list-group {
+    margin-bottom: 0;
+}
+
+p.foot {
+    text-align: center !important;
 }
